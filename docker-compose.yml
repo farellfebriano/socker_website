@@ -7,4 +7,4 @@ services:
     ports:
       - "80:80" # Expose port 80 on the host to port 80 in the container
     volumes:
-      - ./html:/usr/share/nginx/html:ro # Mount a folder for static content
+      - ./html:/usr/share/nginx/html # Mount a folder for static content
