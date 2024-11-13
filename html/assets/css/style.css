@@ -1614,6 +1614,7 @@ General Styles - Owlcarousel
   margin: 15px 0 30px;
   border-radius: 2px;
   text-align: center;
+  min-height: 465px;
 }
 
 .price-table:hover {
