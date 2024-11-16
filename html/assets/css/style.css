@@ -2266,3 +2266,8 @@ h6 {
   line-height: 24px;
   font-size: 14px;
 }
+
+.icon {
+  width: 70px;
+  height: 70px;
+}
