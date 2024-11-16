@@ -1559,6 +1559,11 @@ General Styles - Owlcarousel
   color: #111;
 }
 
+.feature-icon-image {
+  width: 70px;
+  height: 70px;
+}
+
 .features-title,
 .alt-features-title {
   text-transform: uppercase;
