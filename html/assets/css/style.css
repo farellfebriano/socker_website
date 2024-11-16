@@ -16,11 +16,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 iframe {
   border: 0;
 }
@@ -2272,7 +2267,7 @@ h6 {
   font-size: 14px;
 }
 
-.icon {
-  width: 70px;
-  height: 70px;
+.service-icon {
+  width: 98px;
+  height: 98px;
 }
